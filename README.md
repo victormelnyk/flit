@@ -1,2 +1,1 @@
-# My personal site
-![flit.pro](http://flit.pro/)
+# My personal site [flit.pro](http://flit.pro)
